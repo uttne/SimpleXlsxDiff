@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleXlsxDiff", "src\SimpleXlsxDiff\SimpleXlsxDiff.csproj", "{AFC6CEA0-95D9-4F23-9AEF-A0F10C240342}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleXlsxMerge", "src\SimpleXlsxMerge\SimpleXlsxMerge.csproj", "{AFC6CEA0-95D9-4F23-9AEF-A0F10C240342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
